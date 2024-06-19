@@ -25,6 +25,8 @@ class Idioma:
  
 idioma_espanhol = Idioma('espanhol', '🇪🇸', '''🏴󠁧󠁢󠁷󠁬󠁳󠁿''')
 idioma_portugues = Idioma('Portugues', '🇧🇷', '''🏴󠁧󠁢󠁷󠁬󠁳󠁿''')
+
+
 idioma_ingles = Idioma('ingles', '🇺🇸', '''🏴󠁧󠁢󠁷󠁬󠁳󠁿''')
 idioma_frances = Idioma('frances', '🇫🇷', '''🏴󠁧󠁢󠁷󠁬󠁳󠁿''')
 idioma_aleman = Idioma('aleman', '🇩🇪', '''🏴󠁧󠁢󠁷󠁬󠁳󠁿''')
